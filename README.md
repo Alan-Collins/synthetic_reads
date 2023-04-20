@@ -11,7 +11,7 @@ tested with
 
 Basic usage requires only the input of a fasta sequence file
 
-`python3 synthetic reads.py -f path/to/sequence.fasta`
+`python3 synthetic_reads.py -f path/to/sequence.fasta`
 
 ## Procedure
 
